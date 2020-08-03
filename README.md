@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Only Love one person in my life --- W.Meng
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao625)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao625&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tao625/tao625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
